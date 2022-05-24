@@ -3,3 +3,4 @@ version: '${project.version}'
 main: de.joshizockt.guilib.GuiLib
 authors: [ JoshiZockt_ ]
 description: Simple GUI Library for Minecraft Plugins
+website: https://github.com/JoshiCodes/GuiLib
